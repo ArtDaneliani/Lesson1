@@ -8,7 +8,6 @@ public class task4 {
         if (a < 20) {
             System.out.println(a);
         } else if (a >= 20 && a < 60)
-
     {
         System.out.println(a * 2);
         else
