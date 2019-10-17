@@ -8,7 +8,7 @@ public class hw2 {
         int pointX = 3, pointY = 4;
 
         int dX = circleX - pointX;
-        int dX = circleY - pointY;
+        int dY = circleY - pointY;
 
 
         double distanceSquare =  dX * dX + dY * dY;
