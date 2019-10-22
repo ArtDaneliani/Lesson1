@@ -1,4 +1,4 @@
-package by.belhard.j18.lesson2.task5;
+/*package by.belhard.j18.lesson2.task5;
 
 public class Cycles {
     public static void main(String[] args) {
@@ -17,4 +17,5 @@ public class Cycles {
 
        for (int i : intArray)
            System.out.println(i);
-}
+
+}*/

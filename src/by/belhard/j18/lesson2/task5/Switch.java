@@ -1,4 +1,4 @@
-package by.belhard.j18.lesson2.task5;
+/*package by.belhard.j18.lesson2.task5;
 
 public class Switch {
     public static void main(String[] args) {
@@ -40,3 +40,4 @@ public class Switch {
         }
     }
 }
+*/
