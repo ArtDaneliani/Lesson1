@@ -1,4 +1,4 @@
-package by.belhard.j18.lesson2;
+package by.belhard.j18.lesson2.task6;
 
 import java.sql.SQLOutput;
 

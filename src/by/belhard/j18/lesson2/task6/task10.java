@@ -1,4 +1,4 @@
-package by.belhard.j18.lesson2;
+package by.belhard.j18.lesson2.task6;
 
 public class task10 {
     public static void main(String[] args) {
@@ -11,13 +11,10 @@ public class task10 {
                 ("Tereza", 16, person1.country, Sex.FEMALE);
 
 
-        System.out.printf
+        System.out.println
                 ("Name is" + " " + person2.name);
-        System.out.printf
-                (country1.title + " "+ "zipCode is" +" "+ country1.zipCode);
-        System.out.print
-                (person1.age);
-        System.out.print
-                (person1.sex);
+        System.out.println
+                (country1.title + ",  "+ "zipCode is" +" "+ country1.zipCode + ",  " + person2.age + "y.  " + person2.sex);
+
     }
 }
