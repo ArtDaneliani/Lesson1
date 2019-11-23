@@ -1,4 +1,4 @@
-package by.belhard.j18.lesson2.task6;
+package by.belhard.j18.homework.task6;
 
 public class task10 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package by.belhard.j18.lesson2.task5;
+package by.belhard.j18.homework.task5;
 
 public class Types {
 

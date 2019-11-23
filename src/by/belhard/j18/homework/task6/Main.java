@@ -1,6 +1,4 @@
-package by.belhard.j18.lesson2.task6;
-
-import java.sql.SQLOutput;
+package by.belhard.j18.homework.task6;
 
 public class Main {
 

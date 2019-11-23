@@ -1,4 +1,4 @@
-package by.belhard.j18.lesson2.task3;
+package by.belhard.j18.homework.task3;
 
 public class Main {
 

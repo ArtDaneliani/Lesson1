@@ -1,11 +1,12 @@
-package by.belhard.j18.lesson2.task1;
+package by.belhard.j18.homework.task2;
+
 public class Main {
 
     public static void main(String[] args) {
+
+        int b = 10;
         int a = 15;
         System.out.println(a);
-        int b = a;
         System.out.println(b);
-
     }
 }
