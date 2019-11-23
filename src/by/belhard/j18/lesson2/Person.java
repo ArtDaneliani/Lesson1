@@ -17,7 +17,7 @@ public class Person {
 
     public Person(String name, int age, Country country) {
 
-        this(name, age, country, Sex.MALE)
+        this(name, age, country, Sex.MALE);
     }
 
     public int growOld() {
@@ -25,9 +25,12 @@ public class Person {
     }
 
     public void eat(String dish) {
-        System.out.printf("I'm eating %s. Om-nom-nom!"\n", dish);
+        System.out.printf("I'm eating %s. Om-nom-nom!, /n, dish");
 
     }
 
-    public Country getCountry
+    public Country getCountry() {
+        return country;
+    }
+
 }
