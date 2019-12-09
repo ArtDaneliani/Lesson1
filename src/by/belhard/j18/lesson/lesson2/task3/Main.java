@@ -6,18 +6,21 @@ public class Main {
         int a = 10;
         a++;
 
-        System.out.println(a);
+       System.out.println(a);
 
-        System.out.println(a++);
+       System.out.println(a++);
 
-        System.out.println(a);
+       System.out.println(a);
 
-        System.out.println(++a);
+       System.out.println(++a);
 
         a += 5; // eq. a = a + 5;
 
-        a *= a; // eq. a = a * a;
+       System.out.println(a);
 
+       a *= a; // eq. a = a * a;
+
+        System.out.println(a); 
 
     }
 }
